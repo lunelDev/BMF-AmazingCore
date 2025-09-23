@@ -103,14 +103,11 @@ foreach (var frame in dataSet.objPerFrame)
 | **메인 모드 선택**          | 코어 트레이닝, 코어 게임, 3D 뷰어 모드 선택 가능                   | ![모드선택](Screenshots/7.PNG)     |
 | **레벨 선택 화면**          | 초급/중급/고급 3단계 난이도 선택                              | ![레벨선택](Screenshots/3.PNG)     |
 | **트레이닝 진행 화면**        | 실제 운동 영상을 기반으로 한 루틴 가이드                          | ![트레이닝](Screenshots/9.PNG)     |
-| **3D 뷰어 모드**          | 운동 자세를 360도 회전·확대해 확인 가능                         | ![뷰어](Screenshots/10.PNG)       |
+| **3D 뷰어 모드**          | 운동 자세를 360도 회전·확대해 확인 가능                         | ![뷰어](Screenshots/10.jpg)       |
 | **프로필/리포트 화면**        | 운동 기록, 달성 뱃지, 누적 시간 확인 가능                        | ![프로필](Screenshots/1.PNG)      |
 | **모드 - 코어 트레이닝 모드**          | Tower Maker, Delivery Man, Wire Walking 3종 게임 선택 | ![게임선택](Screenshots/4.PNG)     |
 | **게임 - Delivery Man** | 균형 유지 중심 게임. 좌우 움직임으로 성공/실패 판정                   | ![Delivery](Screenshots/6.PNG) |
 | **게임 - Tower Maker**  | 블록을 쌓으며 균형을 유지하는 게임                              | ![Tower](Screenshots/5.PNG)    |
-| **모드 - 코어 트레이닝 모드**       | 올바른 플랭크 자세 유지, 타이머와 함께 진행                        | ![플랭크](Screenshots/9.PNG)      |
-| **모드- 3D 뷰어 모드**       | Bird Dog 자세 3D 모델링으로 단계별 확인                      | ![버드독](Screenshots/10.jpg)     |
-
 
 ## 🎬 영상 및 스토어 링크
 
